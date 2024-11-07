@@ -1,0 +1,97 @@
+.lista {
+    font-size: 16px;
+}
+
+.meuContainer {
+    max-width: 800px;
+    display: flex;
+    justify-content: center;
+    // flex-direction: column;
+    // align-items: center;
+    // min-height: 400px
+}
+
+.titulo {
+    text-align: left;
+    max-width: 500px;
+    font-size: 40px;
+    white-space: pre-wrap;
+    padding: 5px;
+    margin-right: 200px;
+    color: #f0f0f0;
+    font-family: 'Bangers', sans-serif;
+}
+
+
+.personagem-name {
+    font-family: 'Freckle Face', sans-serif;
+}
+
+body {
+    background-color: #302d37;
+}
+
+.imagemFundo {
+    width: 350px;
+    height: 350px;
+    margin-left: 10px;
+
+}
+
+.filters{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding-right: 12px;
+
+}
+
+.customPagination :global(.page-item) :global(.page-link) {
+    color: white; /* Cor do texto */
+    background-color: #6c757d;/* Cor do item ativo */
+    border-color: #6c757d; /* Cor da borda */
+}
+
+.customPagination .page-item.active :global(.page-link) {
+    background-color: #6c757d;/* Cor do item ativo */
+    border-color: #6c757d; /* Borda do item ativo */
+    color: white; /* Cor do texto do item ativo */
+}
+
+.customPagination :global(.page-link):hover {
+    background-color: darkgray; /* Cor ao passar o mouse */
+    color: white;
+}
+.customPagination {
+    display: flex;
+    justify-content: center;
+}
+
+@media (max-width: 768px) {
+    .imagemFundo{
+        display: none;
+    }
+    .personagemCard {
+        display: flex;
+        justify-content: center;
+        max-width: 100vw;
+    }
+    .containerDiv{
+        max-width: 100vw;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .filters{
+        justify-content: center;
+        width: 100%;
+        padding-right: 0;
+    }
+
+
+    .titulo{
+        margin-left: 0px;
+        margin-right: 0px;
+        text-align: center;
+    }
+}

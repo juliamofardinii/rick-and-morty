@@ -1,0 +1,31 @@
+.searchContainer {
+    position: relative; // Permite que o ícone seja posicionado sobre o input
+    display: flex; // Flexbox para alinhar input e ícone
+    padding-top: 40px; // Mantém o padding superior que você forneceu
+}
+
+.searchInput {
+    width: 95%; // Ajuste conforme necessário
+    padding: 10px; // Espaçamento interno
+    padding-left: 35px; // Espaço à esquerda para o ícone
+    padding-right: 40px; // Espaço para o ícone
+    border: 1px solid #ccc; // Borda do input
+    border-radius: 20px; // Borda arredondada
+    color: rgb(43, 42, 42);
+}
+
+.searchIcon {
+    position: absolute; // Posiciona o ícone em relação ao contêiner
+    left: 12px; // Alinhado à esquerda
+    top: 73%; // Centraliza verticalmente
+    transform: translateY(-50%); // Ajuste de centralização
+    color: #888; // Cor do ícone (opcional)
+}
+
+@media (max-width: 768px) {
+    .searchInput {
+        width: 100%; // Ajuste conforme necessário
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+}    

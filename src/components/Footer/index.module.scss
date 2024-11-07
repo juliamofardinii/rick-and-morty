@@ -1,0 +1,19 @@
+.footer {
+    background-color: #00C4D8; /* Cor de fundo escura */
+    color: white; /* Cor do texto */
+    text-align: center; /* Centraliza o texto */
+    padding: 20px 0; /* Espaçamento em cima e embaixo */
+    position: relative; /* Para permitir posicionamento */
+    bottom: 0; /* Para colocar na parte inferior */
+    width: 100%; /* Largura total */
+    margin-top: auto; /* Para garantir que o footer fique na parte inferior se o conteúdo for menor */
+  }
+  
+  .container {
+    max-width: 1200px; /* Largura máxima para o conteúdo */
+    margin: 0 auto; /* Centraliza o container */
+    padding: 0 15px; /* Espaçamento lateral */
+  }
+  
+  
+  
