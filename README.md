@@ -43,4 +43,4 @@ Este projeto é uma aplicação web que utiliza a API de Rick and Morty para lis
 
 ## Link para o projeto:
 
-[https://juliamofardinii.github.io/react-test/index.html](https://juliamofardinii.github.io/react-test/index.html)
+[https://juliamofardinii.github.io/rick-and-morty/](https://juliamofardinii.github.io/rick-and-morty/)
