@@ -2,14 +2,14 @@
 <img src="https://imgur.com/Vb654xU.png" alt="Rick and Morty" width="500"/>
 
 ## API
-Foi utilizada a API públcia do Rick and Morty para consumo das requisições dos personagens:
+Neste projeto foi utilizada a API públcia do Rick and Morty para consumo das requisições dos personagens:
 [https://rickandmortyapi.com/documentation](https://rickandmortyapi.com/documentation)
 
 ## Descrição
 
 Este projeto é uma aplicação web que utiliza a API de Rick and Morty para listar personagens da série. A aplicação permite que os usuários filtrem os personagens por status, gênero e espécie, além de realizar buscas pelo nome. A aplicação também implementa paginação para facilitar a navegação entre os resultados.
 
-## Tecnologias
+## 💻 Tecnologias
 
 - **React**: v18.3.1 - Biblioteca JavaScript para construção de interfaces de usuário. [Documentação do React](https://reactjs.org/docs/getting-started.html)
 - **TypeScript**: v4.9.5 - Linguagem que adiciona tipagem estática ao JavaScript. [Documentação do TypeScript](https://www.typescriptlang.org/docs/)
@@ -19,7 +19,7 @@ Este projeto é uma aplicação web que utiliza a API de Rick and Morty para lis
 - **Axios**: v1.7.7 - Biblioteca para realizar requisições HTTP. [Documentação do Axios](https://axios-http.com/docs/intro)
 - **React Icons**: v5.3.0 - Biblioteca de ícones para React. [Documentação do React Icons](https://react-icons.github.io/react-icons/)
 
-## Instruções para Clonar e Executar o Projeto
+## 🚀 Instruções para Clonar e Executar o Projeto
 
 1. **Clone o repositório**:
     
@@ -46,6 +46,6 @@ Este projeto é uma aplicação web que utiliza a API de Rick and Morty para lis
     ```
     
 
-## Link para o projeto:
+## 🔗 Link para o projeto:
 
 [https://juliamofardinii.github.io/rick-and-morty/](https://juliamofardinii.github.io/rick-and-morty/)
