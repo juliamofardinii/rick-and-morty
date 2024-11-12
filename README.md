@@ -1,4 +1,5 @@
 # Projeto: Rick and Morty
+![Rick and Morty](https://imgur.com/Vb654xU.png)
 
 ## API
 Foi utilizada a API públcia do Rick and Morty para consumo das requisições dos personagens:
