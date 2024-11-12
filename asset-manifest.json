@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-test/static/css/main.24053f9c.css",
+    "main.js": "/react-test/static/js/main.060a61fa.js",
+    "static/media/rickandmorty.png": "/react-test/static/media/rickandmorty.9c8dff0aea9c8884a52b.png",
+    "static/media/logo.svg": "/react-test/static/media/logo.92bff4a530bdbed1af97841a83f3b707.svg",
+    "index.html": "/react-test/index.html",
+    "main.24053f9c.css.map": "/react-test/static/css/main.24053f9c.css.map",
+    "main.060a61fa.js.map": "/react-test/static/js/main.060a61fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24053f9c.css",
+    "static/js/main.060a61fa.js"
+  ]
+}
