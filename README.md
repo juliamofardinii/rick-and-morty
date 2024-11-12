@@ -1,7 +1,8 @@
 # Projeto: Rick and Morty
-![58f37731a4fa116215a92411](https://github.com/user-attachments/assets/7f0aa150-c2de-4aa1-8c6e-12dc45293fa4)
 
-
+## Descrição
+Foi utilizada a API públcia do Rick and Morty para consumo das requisições dos personagens. 
+[https://rickandmortyapi.com/documentation](https://rickandmortyapi.com/documentation)
 ## Descrição
 
 Este projeto é uma aplicação web que utiliza a API de Rick and Morty para listar personagens da série. A aplicação permite que os usuários filtrem os personagens por status, gênero e espécie, além de realizar buscas pelo nome. A aplicação também implementa paginação para facilitar a navegação entre os resultados.
