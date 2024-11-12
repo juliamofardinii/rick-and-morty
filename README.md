@@ -1,4 +1,5 @@
 # Projeto: Rick and Morty
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/610c7cc7-1878-432f-afde-cb3f00737126">
 
 ## Descrição
 
